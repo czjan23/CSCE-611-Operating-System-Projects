@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MP5_Sources"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MP5_Sources">
+				<Option output="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/cmake-build-debug/MP5_Sources" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 MP5_Sources"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MP5_Sources/fast">
+				<Option output="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/cmake-build-debug/MP5_Sources" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 MP5_Sources/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP5_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/assert.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/assert.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/assert.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/console.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/console.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/console.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/exceptions.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/exceptions.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/exceptions.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/frame_pool.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/frame_pool.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/frame_pool.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/gdt.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/gdt.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/gdt.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/idt.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/idt.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/idt.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/interrupts.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/interrupts.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/interrupts.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/irq.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/irq.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/irq.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/kernel.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/machine.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/machine.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/machine.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/machine_low.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/mem_pool.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/mem_pool.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/mem_pool.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/scheduler.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/scheduler.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/scheduler.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/simple_keyboard.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/simple_keyboard.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/simple_keyboard.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/simple_timer.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/simple_timer.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/simple_timer.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/thread.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/thread.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/thread.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/threads_low.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/utils.C">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/utils.H">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/utils.h">
+			<Option target="MP5_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP5_Sources/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

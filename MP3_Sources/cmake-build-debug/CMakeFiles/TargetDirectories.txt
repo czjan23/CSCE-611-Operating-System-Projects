@@ -1,0 +1,3 @@
+/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP3_Sources/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP3_Sources/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP3_Sources/cmake-build-debug/CMakeFiles/MP3_Sources.dir

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MP2_Sources"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MP2_Sources">
+				<Option output="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/cmake-build-debug/MP2_Sources" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 MP2_Sources"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MP2_Sources/fast">
+				<Option output="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/cmake-build-debug/MP2_Sources" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 MP2_Sources/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP2_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/assert.C">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/assert.H">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/assert.h">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/console.C">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/console.H">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/console.h">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/cont_frame_pool.C">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/cont_frame_pool.H">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/cont_frame_pool.h">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/kernel.C">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/machine.C">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/machine.H">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/machine.h">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/machine_low.H">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/simple_frame_pool.C">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/simple_frame_pool.H">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/simple_frame_pool.h">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/utils.C">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/utils.H">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/utils.h">
+			<Option target="MP2_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP2_Sources/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

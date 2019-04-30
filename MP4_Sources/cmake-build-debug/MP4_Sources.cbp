@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MP4_Sources"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MP4_Sources">
+				<Option output="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/cmake-build-debug/MP4_Sources" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 MP4_Sources"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MP4_Sources/fast">
+				<Option output="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/cmake-build-debug/MP4_Sources" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 MP4_Sources/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhechen/Desktop/Courses/csce\ 611/fxfolder/MP4_Sources/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/assert.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/assert.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/assert.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/console.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/console.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/console.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/cont_frame_pool.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/cont_frame_pool.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/cont_frame_pool.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/exceptions.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/exceptions.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/exceptions.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/gdt.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/gdt.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/gdt.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/idt.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/idt.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/idt.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/interrupts.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/interrupts.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/interrupts.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/irq.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/irq.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/irq.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/kernel.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/machine.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/machine.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/machine.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/machine_low.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/page_table.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/page_table.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/page_table.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/paging_low.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/simple_keyboard.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/simple_keyboard.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/simple_keyboard.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/simple_timer.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/simple_timer.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/simple_timer.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/utils.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/utils.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/utils.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/vm_pool.C">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/vm_pool.H">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/vm_pool.h">
+			<Option target="MP4_Sources"/>
+		</Unit>
+		<Unit filename="/Users/zhechen/Desktop/Courses/csce 611/fxfolder/MP4_Sources/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
